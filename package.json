@@ -1,0 +1,25 @@
+{
+  "name": "replitql",
+  "version": "1.0.0",
+  "description": "Query language for replit K-V databases",
+  "main": "index.js",
+  "dependencies": {
+    "peggy": "^2.0.1",
+    "typescript": "^4.8.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mavthedev/replitql.git"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mavthedev/replitql/issues"
+  },
+  "homepage": "https://github.com/mavthedev/replitql#readme"
+}
