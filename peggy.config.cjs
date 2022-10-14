@@ -1,6 +1,5 @@
-modules.exports = {
-
-  input: 'grammer.peggy',
+module.exports = {
+  input: 'grammar.peggy',
   format: 'es',
-  output: 'grammer.ts'
+  output: 'grammar.ts'
 }
