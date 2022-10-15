@@ -1,5 +1,5 @@
 module.exports = {
   input: 'grammar.peggy',
   format: 'es',
-  output: 'grammar.ts'
+  output: 'grammar.js',
 }
